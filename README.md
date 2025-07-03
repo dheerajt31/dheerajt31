@@ -69,4 +69,36 @@ OpenCart is a powerful open-source eCommerce platform. This project focuses on *
 
 ---
 
+---
+
+## 📂 Featured Project: [Mobile-Testing-Framework](https://github.com/dheerajt31/Mobile-Testing-Framework)
+
+**📱 Project Description:**  
+This project demonstrates a custom-built **Mobile Test Automation Framework** designed to test Android mobile applications efficiently. It follows industry-standard practices and supports scalable, maintainable, and reusable test components for real-time mobile testing use cases.
+
+**🔍 Functional Areas Covered:**
+- App installation & launch validation  
+- Login/Logout and navigation flows  
+- UI validations and gesture handling  
+- Form input, data submission, and error handling  
+
+**🧪 Testing Approach:**
+- Test automation using **Appium with Java**
+- Structured using **TestNG** and **Page Object Model (POM)**
+- Device-independent testing on **real devices/emulators**
+- Integrated with **Maven** for build management
+- Log generation, screenshots on failure, and test reporting
+- Bug tracking using **JIRA**, version control with **Git & GitHub**
+
+**📊 Key Highlights:**
+- Modular and scalable test structure  
+- Cross-device test compatibility  
+- Utility methods for reusability and stability  
+- Designed for CI/CD readiness in mobile automation pipelines
+
+🔗 [Explore Project Repository →](https://github.com/dheerajt31/Mobile-Testing-Framework)
+
+
+---
+
 ✅ Let me know if you want to add more projects (e.g., in grid, cards, or table view) or if you'd like badges for the OpenCart project too!
