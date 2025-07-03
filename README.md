@@ -40,7 +40,7 @@ Automation Framework Design, Defect Tracking, Test Case Design, STLC/SDLC Unders
 ---
 
 ## 📂Project 1: [OpenCart Automation](https://github.com/dheerajt31/OpenCart)
-
+🔗 [Explore Project Demo →](https://dheerajt31.github.io/opencart-project-portfolio/)
 **🛒 Project Description:**  
 OpenCart is a powerful open-source eCommerce platform. This project focuses on **testing core eCommerce functionalities** using both **Manual and Automation Testing** techniques.
 
