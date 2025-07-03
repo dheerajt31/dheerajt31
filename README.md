@@ -8,7 +8,7 @@
 - Manual & Automation Testing
 - Selenium | Java | TestNG | Maven
 - Jenkins | Git | GitHub | SQL | JIRA
-- API Testing with Postman & Rest Assured
+- API Testing with Postman 
 
 💡 Passionate about writing clean test code and ensuring product quality.
 
