@@ -69,8 +69,6 @@ OpenCart is a powerful open-source eCommerce platform. This project focuses on *
 
 ---
 
----
-
 ## 📂 Featured Project: [Mobile-Testing-Framework](https://github.com/dheerajt31/Mobile-Testing-Framework)
 
 **📱 Project Description:**  
@@ -96,7 +94,7 @@ This project demonstrates a custom-built **Mobile Test Automation Framework** de
 - Utility methods for reusability and stability  
 - Designed for CI/CD readiness in mobile automation pipelines
 
-🔗 [Explore Project Repository →](https://github.com/dheerajt31/Mobile-Testing-Framework)
+🔗 [Explore Project Repository →](https://github1s.com/dheerajt31/Mobile-Testing-Framework)
 
 
 ---
