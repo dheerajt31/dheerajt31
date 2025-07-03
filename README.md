@@ -39,7 +39,7 @@ Automation Framework Design, Defect Tracking, Test Case Design, STLC/SDLC Unders
 
 ---
 
-## 📂 Featured Project: [OpenCart Automation](https://github.com/dheerajt31/OpenCart)
+## 📂Project 1: [OpenCart Automation](https://github.com/dheerajt31/OpenCart)
 
 **🛒 Project Description:**  
 OpenCart is a powerful open-source eCommerce platform. This project focuses on **testing core eCommerce functionalities** using both **Manual and Automation Testing** techniques.
@@ -69,7 +69,7 @@ OpenCart is a powerful open-source eCommerce platform. This project focuses on *
 
 ---
 
-## 📂 Featured Project: [Mobile-Testing-Framework](https://github.com/dheerajt31/Mobile-Testing-Framework)
+## 📂 Project 2: [Mobile-Testing-Framework](https://github.com/dheerajt31/Mobile-Testing-Framework)
 
 **📱 Project Description:**  
 This project demonstrates a custom-built **Mobile Test Automation Framework** designed to test Android mobile applications efficiently. It follows industry-standard practices and supports scalable, maintainable, and reusable test components for real-time mobile testing use cases.
