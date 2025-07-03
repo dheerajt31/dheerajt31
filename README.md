@@ -25,6 +25,8 @@ Automation Framework Design, Defect Tracking, Test Case Design, STLC/SDLC Unders
 
 ## 🧰 Technologies & Tools
 
+## 🧰 Technologies & Tools
+
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-%2349AA3C.svg?style=for-the-badge&logo=selenium&logoColor=white"/>
@@ -34,8 +36,13 @@ Automation Framework Design, Defect Tracking, Test Case Design, STLC/SDLC Unders
   <img src="https://img.shields.io/badge/JIRA-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/TestNG-%23FF0000.svg?style=for-the-badge&logo=testng&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20POI-%230075FF.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+  <!-- New badges added -->
+  <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Appium-%233B4F8C.svg?style=for-the-badge&logo=appium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-%23000000.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
+
 
 ---
 
