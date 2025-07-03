@@ -2,6 +2,17 @@
 <h3 align="center">A passionate Software Test Engineer | Automation & Manual | API | Selenium | Java | Appium | TestNG </h3>
 
 ---
+## 🏆 About Me
+
+✅ Experienced in:
+- Manual & Automation Testing
+- Selenium | Java | TestNG | Maven
+- Jenkins | Git | GitHub | SQL | JIRA
+- API Testing with Postman & Rest Assured
+
+💡 Passionate about writing clean test code and ensuring product quality.
+
+---
 
 ## 💼 Skills Overview
 
