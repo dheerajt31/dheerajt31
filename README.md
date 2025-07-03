@@ -3,17 +3,23 @@
 
 ---
 
-- 🔭 I’m currently working on **OpenCart E-Commerce Testing Automation**
+## 💼 Skills Overview
 
-- 🌱 I’m currently learning **Advanced Test Automation Frameworks & DevOps tools**
+**🔹 Programming Languages:**  
+Core Java (OOPs, Collections, Exception Handling), SQL
 
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/dheerajt31)
+**🔹 Testing Types:**  
+Manual Testing, Automation Testing, Functional Testing, Regression Testing, Smoke Testing, Black Box Testing, Database Testing, API Testing
 
-- 💬 Ask me about **Manual Testing, Automation Testing (Java, Selenium, Pytest), API Testing with Postman & RestAssured**
+**🔹 Tools & Technologies:**  
+Selenium WebDriver, TestNG, Maven, Git, GitHub, Jenkins, JIRA, Postman, Apache POI, Rest Assured
 
-- 📫 How to reach me: **dheerajtayade31@gmail.com**
+**🔹 Frameworks & Methodologies:**  
+Page Object Model (POM), TestNG Framework, Data-Driven Testing, TDD, BDD, Agile (Scrum)
 
-- 📄 Know more about my experience: [LinkedIn](https://www.linkedin.com/in/dheerajtayade)
+**🔹 Key Concepts:**  
+Automation Framework Design, Defect Tracking, Test Case Design, STLC/SDLC Understanding, End-to-End Testing, Reporting and Logging
+
 
 ---
 
