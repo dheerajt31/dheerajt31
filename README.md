@@ -14,22 +14,38 @@
 
 ---
 
-## 💼 Skills Overview
+## 🛠️ Tech Stack
 
-**🔹 Programming Languages:**  
-Core Java (OOPs, Collections, Exception Handling), SQL
+🔹 **Programming Languages:**  
+Core Java (OOPs, Collections, Exception Handling), SQL  
 
-**🔹 Testing Types:**  
-Manual Testing, Automation Testing, Functional Testing, Regression Testing, Smoke Testing, Black Box Testing, Database Testing, API Testing
+🔹 **Testing Types:**  
+Manual Testing, Automation Testing, Functional Testing, Regression Testing,  
+Smoke Testing, Black Box Testing, Database Testing, API Testing  
 
-**🔹 Tools & Technologies:**  
-Selenium WebDriver, TestNG, Maven, Git, GitHub, Jenkins, JIRA, Postman, Apache POI, Rest Assured
+🔹 **Tools & Technologies:**  
+Selenium WebDriver, TestNG, Maven, Git, GitHub, Jenkins, JIRA, Postman,  
+Apache POI, Rest Assured  
 
-**🔹 Frameworks & Methodologies:**  
-Page Object Model (POM), TestNG Framework, Data-Driven Testing, TDD, BDD, Agile (Scrum)
+🔹 **Frameworks & Methodologies:**  
+Page Object Model (POM), TestNG Framework, Data-Driven Testing,  
+TDD, BDD, Agile (Scrum)  
 
-**🔹 Key Concepts:**  
-Automation Framework Design, Defect Tracking, Test Case Design, STLC/SDLC Understanding, End-to-End Testing, Reporting and Logging
+🔹 **Key Concepts:**  
+Automation Framework Design, Defect Tracking, Test Case Design,  
+STLC/SDLC Understanding, End-to-End Testing, Reporting and Logging  
+
+---
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-%2349AA3C.svg?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 
 ---
