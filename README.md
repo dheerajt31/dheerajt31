@@ -52,8 +52,6 @@ STLC/SDLC Understanding, End-to-End Testing, Reporting and Logging
 
 ## 🧰 Technologies & Tools
 
-## 🧰 Technologies & Tools
-
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-%2349AA3C.svg?style=for-the-badge&logo=selenium&logoColor=white"/>
