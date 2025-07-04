@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Tayade</h1> 
-<h3 align="center">A passionate Software Test Engineer | Automation & Manual | API | Selenium | Java | Appium | TestNG </h3>
+<h3 align="center">🚀 Software Test Engineer | 🔍 Passionate about Quality Assurance | 🛠️  Automation & Manual | API | Selenium | Java | Appium | TestNG </h3>
 
 ---
 ## 🏆 About Me
