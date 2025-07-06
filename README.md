@@ -22,10 +22,8 @@
 - ✔️ Selenium | Java | TestNG  
 - ✔️ Jenkins | Git | GitHub | SQL | Jira  
 - ✔️ API Testing | Rest Assured | Postman
-- 
-💡 Passionate about writing clean test code and ensuring product quality.
+ 📌  Passionate about writing clean test code and ensuring product quality.
 ---
-
 ## 🛠️ Tech Stack
 🔹 **Programming:** Core Java, SQL
 🔹 **Automation Tools:** Selenium, TestNG, Rest Assured
