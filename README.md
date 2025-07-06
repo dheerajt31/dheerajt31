@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Tayade</h1> 
 <h3 align="center">🚀 Software Test Engineer | 🔍 Passionate about Quality Assurance | 🛠️ Manual & Automation Testing | API | Selenium | Java | Appium | TestNG </h3>
+---
+### 🔧 Most Used Tools & Tech
+
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FCC624.svg?style=for-the-badge&logo=testng&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=cucumber&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 ## 🏆 About Me
