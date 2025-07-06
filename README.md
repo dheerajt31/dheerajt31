@@ -45,26 +45,6 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.
 
-
-## 🧰 Technologies & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-%2349AA3C.svg?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JIRA-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestNG-%23FF0000.svg?style=for-the-badge&logo=testng&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20POI-%230075FF.svg?style=for-the-badge"/>
-
-  <!-- New badges added -->
-  <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Appium-%233B4F8C.svg?style=for-the-badge&logo=appium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-%23000000.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
-</p>
-
-
 ---
 ### 📝 Latest Projects
 
