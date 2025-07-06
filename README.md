@@ -27,15 +27,36 @@
 ---
 
 ## 🛠️ Tech Stack
-🔹 Programming: Core Java, SQL
-🔹 Automation Tools: Selenium, TestNG, Rest Assured
-🔹 CI/CD: Jenkins, GitHub Actions
-🔹 Bug Tracking: Jira
-🔹 Version Control: Git, GitHub
-🔹 Framework: TDD, DDT, Hybrid Automation Framework
-🔹 Testing Types: Manual Testing, Automation Testing, Functional Testing, Regression Testing, Smoke Testing, Black Box Testing, Database Testing, API Testing 
+🔹 **Programming:** Core Java, SQL
+🔹 **Automation Tools:** Selenium, TestNG, Rest Assured
+🔹 **CI/CD:** Jenkins, GitHub Actions
+🔹 **Bug Tracking:** Jira
+🔹 **Version Control:** Git, GitHub
+🔹 **Framework:** TDD, DDT, Hybrid Automation Framework
+🔹 **Testing Types:** Manual Testing, Automation Testing, Functional Testing, Regression Testing, Smoke Testing, Black Box Testing, Database Testing, API Testing 
 
 
+<p align="left">
+  <!-- Programming -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  
+  <!-- Automation Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/testng/testng-original.svg" alt="TestNG" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Rest Assured" width="40" height="40"/>
+  
+  <!-- CI/CD -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40"/>
+
+  <!-- Bug Tracking -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
+  
+  <!-- Version Control -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
 
 
 ## 💻 Technical Skills
