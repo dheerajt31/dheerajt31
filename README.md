@@ -23,7 +23,7 @@
  ✔️ Jenkins | Git | GitHub | SQL | Jira  
 ✔️ API Testing | Rest Assured | Postman
 
-📌  Passionate about writing clean test code and ensuring product quality.
+ 📌 Passionate about writing clean test code and ensuring product quality.
 ---
 ### 🛠️ Tech Stack
 
