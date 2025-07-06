@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Rest%20Assured-00C7B7.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.
+  
 
 ---
 ### 📝 Latest Projects
