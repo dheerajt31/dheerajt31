@@ -16,40 +16,72 @@
 ---
 ## 🏆 About Me
 
-✅ Experienced in:
-- Manual & Automation Testing
-- Selenium | Java | TestNG | Maven
-- Jenkins | Git | GitHub | SQL | JIRA
-- API Testing with Postman 
+🏆 Experienced in:
+✔ Manual & Automation Testing
+✔ Selenium | Java | TestNG
+✔ Jenkins | Git | GitHub | SQL | Jira
+✔ API Testing Rest Postman
 
 💡 Passionate about writing clean test code and ensuring product quality.
 
 ---
 
 ## 🛠️ Tech Stack
-🔧 Technical Skills
+🔹 Programming: Core Java, SQL
+🔹 Automation Tools: Selenium, TestNG, Rest Assured
+🔹 CI/CD: Jenkins, GitHub Actions
+🔹 Bug Tracking: Jira
+🔹 Version Control: Git, GitHub
+🔹 Framework: TDD, DDT, Hybrid Automation Framework
+🔹 Testing Types: Manual Testing, Automation Testing, Functional Testing, Regression Testing, Smoke Testing, Black Box Testing, Database Testing, API Testing 
 
-🔹 **Programming Languages:**  
-Core Java (OOPs, Collections, Exception Handling), SQL  
 
-🔹 **Testing Types:**  
-Manual Testing, Automation Testing, Functional Testing, Regression Testing,  
-Smoke Testing, Black Box Testing, Database Testing, API Testing  
 
-🔹 **Tools & Technologies:**  
-Selenium WebDriver, TestNG, Maven, Git, GitHub, Jenkins, JIRA, Postman,  
-Apache POI, Rest Assured  
 
-🔹 **Frameworks & Methodologies:**  
-Page Object Model (POM), TestNG Framework, Data-Driven Testing,  
-TDD, BDD, Agile (Scrum)  
+## 💻 Technical Skills
 
-🔹 **Key Concepts:**  
-Automation Framework Design, Defect Tracking, Test Case Design,  
-STLC/SDLC Understanding, End-to-End Testing, Reporting and Logging  
+### 🔹 Programming
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🔹 Automation Tools
+<p>
+  <img src="https://img.shields.io/badge/Selenium-%2349AA3C.svg?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-%23FF6F00.svg?style=for-the-badge&logo=testing-library&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RestAssured-%23000000.svg?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+### 🔹 CI/CD
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+### 🔹 Bug Tracking
+<p>
+  <img src="https://img.shields.io/badge/JIRA-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
+
+### 🔹 Version Control
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+### 🔹 Frameworks
+<p>
+  <img src="https://img.shields.io/badge/TDD-%23007ACC.svg?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BDD-%2300A98F.svg?style=for-the-badge&logo=cucumber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hybrid%20Framework-%23A020F0.svg?style=for-the-badge&logo=framework&logoColor=white"/>
+</p>
+
+
+
+
 
 ---
-
 <p align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-%2349AA3C.svg?style=for-the-badge&logo=selenium&logoColor=white" />
