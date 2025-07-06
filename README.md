@@ -14,16 +14,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-## 🏆 About Me
+### 🏆 About Me
 
-🏆 Experienced in:
-✔ Manual & Automation Testing
-✔ Selenium | Java | TestNG
-✔ Jenkins | Git | GitHub | SQL | Jira
-✔ API Testing Rest Postman
+💡 Experienced in:
 
+- ✔️ Manual & Automation Testing  
+- ✔️ Selenium | Java | TestNG  
+- ✔️ Jenkins | Git | GitHub | SQL | Jira  
+- ✔️ API Testing | Rest Assured | Postman
+- 
 💡 Passionate about writing clean test code and ensuring product quality.
-
 ---
 
 ## 🛠️ Tech Stack
