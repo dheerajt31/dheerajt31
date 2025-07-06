@@ -66,6 +66,7 @@
 
 
 ---
+### 📝 Latest Projects
 
 ## 📂Project 1: [OpenCart Automation](https://github.com/dheerajt31/OpenCart)
 🔗 [Explore Project Demo →](https://dheerajt31.github.io/opencart-project-portfolio/)
