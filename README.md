@@ -26,13 +26,13 @@
   📌  Passionate about writing clean test code and ensuring product quality.
 ---
 ## 🛠️ Tech Stack
-🔹 **Programming:** Core Java, SQL
-🔹 **Automation Tools:** Selenium, TestNG, Rest Assured
-🔹 **CI/CD:** Jenkins, GitHub Actions
-🔹 **Bug Tracking:** Jira
-🔹 **Version Control:** Git, GitHub
-🔹 **Framework:** TDD, DDT, Hybrid Automation Framework
-🔹 **Testing Types:** Manual Testing, Automation Testing, Functional Testing, Regression Testing, Smoke Testing, Black Box Testing, Database Testing, API Testing 
+-🔹 **Programming:** Core Java, SQL
+-🔹 **Automation Tools:** Selenium, TestNG, Rest Assured
+-🔹 **CI/CD:** Jenkins, GitHub Actions
+-🔹 **Bug Tracking:** Jira
+-🔹 **Version Control:** Git, GitHub
+-🔹 **Framework:** TDD, DDT, Hybrid Automation Framework
+-🔹 **Testing Types:** Manual Testing, Automation Testing, Functional Testing, Regression Testing, Smoke Testing, Black Box Testing, Database Testing, API Testing 
 
 
 <p align="left">
