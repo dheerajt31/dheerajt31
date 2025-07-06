@@ -25,9 +25,10 @@
 
   📌  Passionate about writing clean test code and ensuring product quality.
 ---
-## 🛠️ Tech Stack
--🔹 **Programming:** Core Java, SQL
--🔹 **Automation Tools:** Selenium, TestNG, Rest Assured
+### 🛠️ Tech Stack 
+
+🔹 Programming: Core Java, SQL
+🔹 Automation Tools: Selenium, TestNG, Rest Assured
 -🔹 **CI/CD:** Jenkins, GitHub Actions
 -🔹 **Bug Tracking:** Jira
 -🔹 **Version Control:** Git, GitHub
