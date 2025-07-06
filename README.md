@@ -15,6 +15,17 @@
 ---
 
 ## 🛠️ Tech Stack
+🔧 Technical Skills
+🔹 Programming Languages
+<p> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> </p>
+🔹 Testing Types
+<p> <img src="https://img.shields.io/badge/Manual%20Testing-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Automation%20Testing-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/API%20Testing-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Regression%20Testing-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/Smoke%20Testing-lightgrey?style=for-the-badge"/> <img src="https://img.shields.io/badge/Black%20Box%20Testing-darkblue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Database%20Testing-teal?style=for-the-badge"/> </p>
+🔹 Tools & Technologies
+<p> <img src="https://img.shields.io/badge/Selenium-%2349AA3C.svg?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/TestNG-%23FF6F00.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/Maven-%230052CC.svg?style=for-the-badge&logo=apachemaven&logoColor=white"/> <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/JIRA-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20POI-%23000000.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/Rest%20Assured-%234CAF50.svg?style=for-the-badge"/> </p>
+🔹 Frameworks & Methodologies
+<p> <img src="https://img.shields.io/badge/POM-%23FF5722.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data--Driven%20Testing-%233F51B5.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/TDD-%2300BCD4.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/BDD-%239C27B0.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/Agile(Scrum)-%2304C5FF.svg?style=for-the-badge"/> </p>
+🔹 Key Concepts
+<p> <img src="https://img.shields.io/badge/Automation%20Framework%20Design-%23E91E63.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/Defect%20Tracking-%239C27B0.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/Test%20Case%20Design-%234CAF50.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/STLC/SDLC-%231E88E5.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/End--to--End%20Testing-%23FF9800.svg?style=for-the-badge"/> <img src="https://img.shields.io/badge/Reporting%20and%20Logging-%2300BCD4.svg?style=for-the-badge"/> </p>
 
 🔹 **Programming Languages:**  
 Core Java (OOPs, Collections, Exception Handling), SQL  
