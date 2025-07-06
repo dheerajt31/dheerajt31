@@ -46,64 +46,6 @@
   <img src="https://img.
 
 
-
-## 💻 Technical Skills
-
-### 🔹 Programming
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### 🔹 Automation Tools
-<p>
-  <img src="https://img.shields.io/badge/Selenium-%2349AA3C.svg?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestNG-%23FF6F00.svg?style=for-the-badge&logo=testing-library&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RestAssured-%23000000.svg?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
-
-### 🔹 CI/CD
-<p>
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-### 🔹 Bug Tracking
-<p>
-  <img src="https://img.shields.io/badge/JIRA-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white"/>
-</p>
-
-### 🔹 Version Control
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-### 🔹 Frameworks
-<p>
-  <img src="https://img.shields.io/badge/TDD-%23007ACC.svg?style=for-the-badge&logo=code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BDD-%2300A98F.svg?style=for-the-badge&logo=cucumber&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hybrid%20Framework-%23A020F0.svg?style=for-the-badge&logo=framework&logoColor=white"/>
-</p>
-
-
-
-
-
----
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-%2349AA3C.svg?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-
----
-
 ## 🧰 Technologies & Tools
 
 <p>
