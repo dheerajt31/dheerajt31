@@ -22,7 +22,7 @@
  ✔️ Jenkins | Git | GitHub | SQL | Jira  
 ✔️ API Testing | Rest Assured | Postman
 
-  📌Passionate about writing clean test code and ensuring product quality.
+ 📌 Passionate about building reliable software through clean automation, robust test strategies, and modern CI/CD practices.
 ---
 ### 🛠️ Tech Stack
 
@@ -31,8 +31,7 @@
 🔹 CI/CD: Jenkins, GitHub Actions  
 🔹 Bug Tracking: Jira  
 🔹 Version Control: Git, GitHub  
-🔹 Framework: TDD, DDT, Hybrid Automation Framework  
-🔹 Testing Types: Manual Testing, Automation Testing, Functional Testing, Regression Testing, Smoke Testing, Black Box Testing, Database Testing, API Testing
+🔹 Framework: TDD, DDT, Hybrid 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
@@ -80,6 +79,7 @@ OpenCart is a powerful open-source eCommerce platform. This project focuses on *
 
 ## 📂 Project 2: [Mobile-Testing-Framework](https://github.com/dheerajt31/Mobile-Testing-Framework)
 
+🔗 [Explore Project Repository →](https://github1s.com/dheerajt31/Mobile-Testing-Framework)
 **📱 Project Description:**  
 This project demonstrates a custom-built **Mobile Test Automation Framework** designed to test Android mobile applications efficiently. It follows industry-standard practices and supports scalable, maintainable, and reusable test components for real-time mobile testing use cases.
 
@@ -108,4 +108,4 @@ This project demonstrates a custom-built **Mobile Test Automation Framework** de
 
 ---
 
-✅ Let me know if you want to add more projects (e.g., in grid, cards, or table view) or if you'd like badges for the OpenCart project too!
+💡 Let’s connect and build something amazing! 🚀
