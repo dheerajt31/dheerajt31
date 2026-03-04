@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dheeraj Tayade  </h1> 
+<h1 align="center">💻Hi 👋, I'm Dheeraj Tayade  </h1> 
 <h3 align="center">  🚀 Software Test Engineer  | 🔍 Passionate about Quality Assurance  | 🛠️ Manual + Automation Testing  </h3>
 
 ---
