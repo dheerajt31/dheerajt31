@@ -20,9 +20,10 @@
  ✔️ Manual & Automation Testing  
  ✔️ Selenium | Java | TestNG  
  ✔️ Jenkins | Git | GitHub | SQL | Jira  
-✔️ API Testing | Rest Assured | Postman
+✔️ API Testing | Rest Assured | Postman 
 
- 📌 Passionate about building reliable software through clean automation, robust test strategies, and modern CI/CD practices.
+📌Passionate about building reliable software through clean automation, robust test strategies, and modern CI/CD practices.
+
 ---
 ### 🛠️ Tech Stack
 
