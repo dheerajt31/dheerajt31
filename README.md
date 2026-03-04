@@ -48,7 +48,8 @@
 ### 📝 Latest Projects
 
 ## 📂Project 1: [OpenCart Automation](https://github.com/dheerajt31/OpenCart)
-🔗 [Explore Project Demo →](https://dheerajt31.github.io/opencart-project-portfolio/)
+🔗 [GitHub Repository →](https://github1s.com/dheerajt31/Mobile-Testing-Framework)
+🔗 [Live Project Page →](https://dheerajt31.github.io/opencart-project-portfolio/)
 
 **🛒 Project Description:**  
 OpenCart is a powerful open-source eCommerce platform. This project focuses on **testing core eCommerce functionalities** using both **Manual and Automation Testing** techniques.
@@ -80,7 +81,7 @@ OpenCart is a powerful open-source eCommerce platform. This project focuses on *
 
 ## 📂 Project 2: [Mobile-Testing-Framework](https://github.com/dheerajt31/Mobile-Testing-Framework)
 
-🔗 [Explore Project Repository →](https://github1s.com/dheerajt31/Mobile-Testing-Framework)
+
 **📱 Project Description:**  
 This project demonstrates a custom-built **Mobile Test Automation Framework** designed to test Android mobile applications efficiently. It follows industry-standard practices and supports scalable, maintainable, and reusable test components for real-time mobile testing use cases.
 
